@@ -1,0 +1,6 @@
+.output {
+  border: 1px solid green;
+  display: block;
+color: white;  background: black;
+  padding 4px;
+}
